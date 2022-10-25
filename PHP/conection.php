@@ -55,6 +55,7 @@ if($registros)
             $i++;
         }
         echo "</table>";
+        
     } 
-
+    echo "<br><button><a href=\"index.html\">REGRESAR</a></button>"
 ?>
